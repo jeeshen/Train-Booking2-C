@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\htbac\OneDrive\Desktop\C2\Assignment Help\Assignment-train schedule module(fixed)\Source.c(190,11): warning C4098: 'login': 'void' function returning a value
+C:\Users\htbac\OneDrive\Desktop\C2\Assignment Help\Assignment-train schedule module(fixed)\Source.c(418,32): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\htbac\OneDrive\Desktop\C2\Assignment Help\Assignment-train schedule module(fixed)\Source.c(455,9): warning C4013: 'isalpha' undefined; assuming extern returning int
+  Assignment-train schedule module(fixed).vcxproj -> C:\Users\htbac\OneDrive\Desktop\C2\Assignment Help\x64\Debug\Assignment-train schedule module(fixed).exe
