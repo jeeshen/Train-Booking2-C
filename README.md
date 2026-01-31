@@ -48,7 +48,3 @@ Default admin credentials are stored in `users.txt`
 - Visual Studio 2019 or later
 - Windows operating system
 - C compiler with C99 support
-
-## Authors
-- TAN QI XUAN
-- SAMANTHA LAU ZHEN MIAO
